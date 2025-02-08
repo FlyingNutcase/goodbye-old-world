@@ -1,0 +1,15 @@
+C:\_My_2025\CODING 2025\hello-old-world\goodbye-old-world\GoodbyeOldWorld\bin\Debug\net9.0\GoodbyeOldWorld.exe
+C:\_My_2025\CODING 2025\hello-old-world\goodbye-old-world\GoodbyeOldWorld\bin\Debug\net9.0\GoodbyeOldWorld.deps.json
+C:\_My_2025\CODING 2025\hello-old-world\goodbye-old-world\GoodbyeOldWorld\bin\Debug\net9.0\GoodbyeOldWorld.runtimeconfig.json
+C:\_My_2025\CODING 2025\hello-old-world\goodbye-old-world\GoodbyeOldWorld\bin\Debug\net9.0\GoodbyeOldWorld.dll
+C:\_My_2025\CODING 2025\hello-old-world\goodbye-old-world\GoodbyeOldWorld\bin\Debug\net9.0\GoodbyeOldWorld.pdb
+C:\_My_2025\CODING 2025\hello-old-world\goodbye-old-world\GoodbyeOldWorld\obj\Debug\net9.0\GoodbyeOldWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\_My_2025\CODING 2025\hello-old-world\goodbye-old-world\GoodbyeOldWorld\obj\Debug\net9.0\GoodbyeOldWorld.AssemblyInfoInputs.cache
+C:\_My_2025\CODING 2025\hello-old-world\goodbye-old-world\GoodbyeOldWorld\obj\Debug\net9.0\GoodbyeOldWorld.AssemblyInfo.cs
+C:\_My_2025\CODING 2025\hello-old-world\goodbye-old-world\GoodbyeOldWorld\obj\Debug\net9.0\GoodbyeOldWorld.csproj.CoreCompileInputs.cache
+C:\_My_2025\CODING 2025\hello-old-world\goodbye-old-world\GoodbyeOldWorld\obj\Debug\net9.0\GoodbyeOldWorld.sourcelink.json
+C:\_My_2025\CODING 2025\hello-old-world\goodbye-old-world\GoodbyeOldWorld\obj\Debug\net9.0\GoodbyeOldWorld.dll
+C:\_My_2025\CODING 2025\hello-old-world\goodbye-old-world\GoodbyeOldWorld\obj\Debug\net9.0\refint\GoodbyeOldWorld.dll
+C:\_My_2025\CODING 2025\hello-old-world\goodbye-old-world\GoodbyeOldWorld\obj\Debug\net9.0\GoodbyeOldWorld.pdb
+C:\_My_2025\CODING 2025\hello-old-world\goodbye-old-world\GoodbyeOldWorld\obj\Debug\net9.0\GoodbyeOldWorld.genruntimeconfig.cache
+C:\_My_2025\CODING 2025\hello-old-world\goodbye-old-world\GoodbyeOldWorld\obj\Debug\net9.0\ref\GoodbyeOldWorld.dll
